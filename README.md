@@ -1,1 +1,2 @@
-# IPL-2018-Result-Prediction
+# Indian-Premiere-League-2018-Result-Prediction
+Indian Premier League(IPL), is one the most expensive cricketing leagues in the world. Predicting Ball to Ball results for a given match schedule, using previously played seasons data and finally predicting the Winner of the 2018 season. This would look into current team composition, players records, predicted innings and advantage of home ground to formulate a Points Table with Net Run Rate for each team. For new players cluster data was employed to make suitable comparisons. For this, Gaussian SVM gave 59.51%, Naive Bayes gave 60.20% and Random Forest Classifier gave 56% accuracy. 
